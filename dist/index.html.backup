@@ -78,12 +78,20 @@
             Home
           </h1>
           <p class="leading-normal text mb-4">
-		Warm, confidential counselling in Thomastown, Melbourne. Offering individual counselling, couples therapy, and professional supervision. In-person and online appointments available Australia-wide.
+		Welcome to Ski Counselling, a warm and confidential space for individuals, couples, and professionals seeking support, guidance, and personal growth.
 		<br></br>
-		If you're feeling overwhelmed or anxious, navigating relationship challenges, or moving through a life transition, counselling can help you make sense of it all and find a path forward.
+		Whether you're feeling overwhelmed, anxious, or struggling with relationships or life transitions, counselling can help you make sense of what's happening and find a way forward.
 		<br></br>
-		At Ski Counselling, you'll be heard, supported, and understood — with compassion, respect, and no judgment.
+		At Ski Counselling, we believe that everyone deserves to be heard and supported — with compassion, understanding, and without judgment.
 		<br></br>
+		Our services include:
+          </p>
+		<ul class="list-disc pl-6 space-y-2 ml-4 mb-4">
+		  <li class="ml-2"> Individual Counselling </li>
+		  <li class="ml-2"> Couples Counselling </li>
+		  <li class="ml-2"> Professional Supervision for Counsellors </li>
+                </ul>
+		<p class="leading-normal text mb-8">
 		Your wellbeing matters. Let's take the next step together.
 		</p>
           <button class="mx-auto lg:mx-0 hover:underline bg-white text-gray-800 font-bold rounded-full my-6 py-4 px-8 shadow-lg 
@@ -128,27 +136,17 @@
               About
             </h3>
             <p class="text-gray-600 mb-4">
-              At Ski Counselling, we provide a safe, supportive environment where you can explore life's challenges and develop greater resilience, insight, and emotional balance.
-              <br></br>
-              Our practice offers individual counselling, couples counselling, and professional supervision both in-person in Thomastown and online anywhere in Australia.
+              At Ski Counselling, we provide a safe and supportive environment where clients can explore life's challenges and develop greater self-awareness, resilience, and emotional balance.
             </p>
             <h4 class="text-2xl text-gray-800 font-bold leading-none mb-3 mt-6">
-              The Person Behind the Practice
+              About Snezana
             </h4>
             <p class="text-gray-600 mb-4">
-              Snezana is a qualified and experienced counsellor dedicated to helping people strengthen their relationships, reduce stress and anxiety, and build confidence and emotional wellbeing.
+              Snezana is a qualified and experienced counsellor who offers a gentle yet practical approach to emotional wellbeing. She is passionate about helping clients build stronger relationships, reduce anxiety and stress, and create a more fulfilling life.
               <br></br>
-              Her approach is warm, compassionate, and practical — grounded in empathy, authenticity, and deep respect for each person's unique story.
+              Her practice is grounded in empathy, authenticity, and respect — recognising that each person's story is unique.
               <br></br>
-              Snezana supports adults, couples, and counselling professionals, including school counsellors and wellbeing staff across Melbourne and Victoria.
-            </p>
-            <h4 class="text-2xl text-gray-800 font-bold leading-none mb-3 mt-6">
-              Qualifications & Memberships:
-            </h4>
-            <p class="text-gray-600 mb-4">
-              Member, Australian Counselling Association (ACA)<br>
-              Counsellors Victoria (CV)<br>
-              College of Supervisors (COS)
+              Snezana works with adults and couples, and offers professional supervision to support other counsellors in their practice.
             </p>
             <h4 class="text-xl text-gray-800 font-bold leading-none mb-3 mt-4">
               Qualifications &amp; Memberships:
@@ -203,25 +201,20 @@
                 Individual Counselling
               </h3>
               <p class="text-gray-600 mb-4">
-                Life can sometimes feel overwhelming or uncertain. Individual counselling offers you a private, supportive space to explore your thoughts, feelings, and challenges with someone who truly listens.
+                Sometimes life can feel overwhelming or uncertain. Individual counselling offers a private space to explore your thoughts, feelings, and challenges with someone who truly listens.
               </p>
               <h4 class="text-xl text-gray-800 font-bold leading-none mb-3">
-                Areas of support:
+                Areas of support include:
               </h4>
               <ul class="text-gray-600 list-disc pl-6">
-                <li>Anxiety, stress, and overwhelm</li>
+                <li>Stress and anxiety</li>
                 <li>Grief and loss</li>
-                <li>Low mood or reduced motivation</li>
-                <li>Self-esteem and confidence</li>
-                <li>Life changes (career, relocation, relationship changes)</li>
-                <li>Work–life balance</li>
-                <li>Personal growth and wellbeing</li>
+                <li>Low mood and motivation</li>
+                <li>Self-esteem and confidence building</li>
+                <li>Life transitions</li>
+                <li>Work-life balance</li>
+                <li>General emotional wellbeing</li>
               </ul>
-              <p class="text-gray-600 mb-4 mt-4">
-                Individual therapy sessions help you gain clarity, build coping tools, and move forward with confidence and direction.
-                <br></br>
-                Available in-person in Thomastown or online Australia-wide.
-              </p>
             </div>
           </div>
         </div>
@@ -235,18 +228,17 @@
                 Couples Counselling
               </h3>
               <p class="text-gray-600 mb-4">
-                Healthy relationships take intention, communication, and support. Couples counselling provides a safe space for partners to rebuild trust, strengthen connection, and create a more fulfilling relationship.
+                Relationships are central to our wellbeing, yet they can also be challenging. Couples counselling helps partners rebuild trust, improve communication, and strengthen connection.
               </p>
               <h4 class="text-xl text-gray-800 font-bold leading-none mb-3">
-                Common areas of support:
+                Common areas addressed include:
               </h4>
               <ul class="text-gray-600 list-disc pl-6">
-                <li>Communication issues</li>
-                <li>Conflict, tension, or emotional distance</li>
-                <li>Infidelity and trust repair</li>
-                <li>Blended family or parenting stress</li>
-                <li>Navigating major life changes</li>
-                <li>Re-establishing closeness and understanding</li>
+                <li>Communication breakdowns</li>
+                <li>Conflict and emotional distance</li>
+                <li>Infidelity and rebuilding trust</li>
+                <li>Parenting stress</li>
+                <li>Managing life changes together</li>
               </ul>
             </div>
           </div>
@@ -258,33 +250,21 @@
                 Professional Supervision
               </h3>
               <p class="text-gray-600 mb-4">
-                Professional supervision is essential for ethical, reflective, and sustainable counselling practice.
+                Supervision is an essential part of ethical and professional counselling practice.
                 <br></br>
-                As a qualified Professional Supervisor, Snezana provides supportive, growth-focused supervision for:
-              </p>
-              <ul class="text-gray-600 mb-4 list-disc pl-6">
-                <li>Counsellors in private practice</li>
-                <li>Early-career counsellors</li>
-                <li>Counselling students</li>
-                <li>School counsellors and wellbeing staff across Melbourne and Victoria</li>
-                <li>Professionals working with children, teens, and families</li>
-              </ul>
-              <p class="text-gray-600 mb-4">
-                Her supervision approach is grounded in real-world experience and an understanding of the unique pressures faced in school environments.
+                At Ski Counselling, we offer supervision to counsellors seeking reflective, supportive, and educational guidance in their professional work.
               </p>
               <h4 class="text-xl text-gray-800 font-bold leading-none mb-3">
-                Supervision supports you to:
+                Supervision helps counsellors to:
               </h4>
               <ul class="text-gray-600 mb-4 list-disc pl-6">
-                <li>Reflect on and refine your practice</li>
-                <li>Strengthen ethical decision-making</li>
-                <li>Receive support for complex cases</li>
-                <li>Build resilience and professional confidence</li>
-                <li>Maintain boundaries and wellbeing</li>
-                <li>Develop clarity and direction in your role</li>
+                <li>Reflect on and improve their practice</li>
+                <li>Strengthen ethical awareness</li>
+                <li>Identify challenges and solutions</li>
+                <li>Build confidence and professional growth</li>
               </ul>
               <p class="text-gray-600">
-                Whether you are a counsellor in private practice or a professional working within a school setting, supervision provides the clarity, support, and direction needed to thrive in your role.
+                Supporting counsellors to deliver effective, ethical, and compassionate care.
               </p>
             </div>
           </div>
@@ -368,49 +348,47 @@
       <div class="flex flex-wrap">
         <div class="w-5/6 sm:w-1/2 p-6">
           <p class="text-white-600 text-left mb-4">
-            We'd love to hear from you.
+            We would love to hear from you.
           </p>
           <h2 class="text-2xl text-white-800 font-bold leading-none mb-3">
             Ski Counselling
           </h2>
           <p class="text-white-600 text-left mb-2">
-            Based in Thomastown, Melbourne, Victoria
+            Based in Thomastown, Victoria
           </p>
           <p class="text-white-600 text-left mb-2">
-            Phone: <a href="tel:0402697450" class="hover:underline">0402 697 450</a>
+            <a href="tel:0402697450" class="hover:underline">0402 697 450</a>
           </p>
           <p class="text-white-600 text-left mb-4">
-            Email: <a href="mailto:skicounselling@gmail.com" class="hover:underline">skicounselling@gmail.com</a>
+            <a href="mailto:skicounselling@gmail.com" class="hover:underline">skicounselling@gmail.com</a>
+          </p>
+          <p class="text-white-600 text-left mb-2">
+            Appointments are available in person and online.
           </p>
           <p class="text-white-600 text-left mb-4">
-            Appointments available in-person or online anywhere in Australia.
+            Please get in touch to discuss your needs or to book your first session.
           </p>
           <p class="text-white-600 text-left font-semibold">
-            Confidential • Supportive • Professional
+            Confidential. Supportive. Professional.
           </p>
         </div>
         <div class="w-5/6 sm:w-1/2 p-6">
           <h1 class="text-3xl text-white-800 font-bold leading-none mb-3">
-            Additional Support Services
+            Agencies who can also help
           </h1>
-          <p class="text-white-600 text-left mb-4">
-            If you ever need help beyond counselling, the following services are available:
-          </p>
+          <br />
           <ul class="list-reset mb-6">
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
-              <a href="http://www.beyondblue.org.au/" class="no-underline hover:underline text-white-800 hover:text-pink-500">Beyond Blue – Mental health support</a>
+              <a href="http://www.beyondblue.org.au/" class="no-underline hover:underline text-white-800 hover:text-pink-500">Beyond Blue</a>
             </li>
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
-              <a href="http://www.kidshelp.com.au/teens" class="no-underline hover:underline text-white-800 hover:text-pink-500">Kids Helpline – Support for young people</a>
+              <a href="http://www.kidshelp.com.au/teens" class="no-underline hover:underline text-white-800 hover:text-pink-500">Kids Help Line</a>
             </li>
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
-              <a href="http://www.headspace.org.au/" class="no-underline hover:underline text-white-800 hover:text-pink-500">headspace – Youth mental health and wellbeing</a>
+              <a href="http://www.headspace.org.au/" class="no-underline hover:underline text-white-800 hover:text-pink-500">Head Space</a>
             </li>
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
-              <a href="http://www.rch.org.au/" class="no-underline hover:underline text-white-800 hover:text-pink-500">The Royal Children's Hospital – Support for children and families</a>
-            </li>
-            <li class="mt-2 inline-block mr-2 md:block md:mr-0">
-              <a href="https://au.reachout.com/" class="no-underline hover:underline text-white-800 hover:text-pink-500">ReachOut – Online mental health resources for young people</a>
+              <a href="http://www.rch.org.au/" class="no-underline hover:underline text-white-800 hover:text-pink-500">Royal Childrens Hospital</a>
             </li>
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
               <a href="http://www.reachout.com/" class="no-underline hover:underline text-white-800hover:text-pink-500">Reach Out</a>
